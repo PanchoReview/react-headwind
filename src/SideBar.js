@@ -1,5 +1,5 @@
 import SideBarIcon from "./SideBarIcon"
-import { BsPlus, BsFillLightbulbFill, BsGearFill, BsFillLightningFill } from 'react-icons/bs'
+import { BsPlus, BsFillLightningFill } from 'react-icons/bs'
 import { FaFire, FaPoo } from 'react-icons/fa'
 
 const SideBar = () => {
